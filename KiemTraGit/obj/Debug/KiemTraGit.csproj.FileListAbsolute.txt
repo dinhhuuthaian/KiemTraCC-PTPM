@@ -1,0 +1,11 @@
+D:\A-V\KiemTraGit\KiemTraGit\bin\Debug\KiemTraGit.exe.config
+D:\A-V\KiemTraGit\KiemTraGit\bin\Debug\KiemTraGit.exe
+D:\A-V\KiemTraGit\KiemTraGit\bin\Debug\KiemTraGit.pdb
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.csproj.AssemblyReference.cache
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.Form1.resources
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.Form2.resources
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.Properties.Resources.resources
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.csproj.GenerateResource.cache
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.csproj.CoreCompileInputs.cache
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.exe
+D:\A-V\KiemTraGit\KiemTraGit\obj\Debug\KiemTraGit.pdb

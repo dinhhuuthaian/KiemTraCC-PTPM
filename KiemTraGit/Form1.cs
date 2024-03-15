@@ -16,5 +16,21 @@ namespace KiemTraGit
         {
             InitializeComponent();
         }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            String username = txtUserName.Text;
+            String password = txtpassword.Text;
+            if(username == "admin" && password == "admin")
+            {
+                Form2 form2 = new Form2();
+                form2.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Đăng nhập thất bại");
+            }
+            
+        }
     }
 }
